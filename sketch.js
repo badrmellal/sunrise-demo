@@ -1,3 +1,7 @@
+
+// Made by Badr Mellal, visit my portfolio below
+// https://badr-mellal.com
+
 var groundHeight;
 var mountain1;
 var mountain2;
